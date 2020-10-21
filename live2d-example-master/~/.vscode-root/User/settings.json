@@ -1,0 +1,7 @@
+{
+    "vscode_custom_css.imports": [
+        "file:///home/dev/Documents/zx/vscode-custom/live2d-example-master/initLive2D.js"
+    ],
+    "vscode_custom_css.policy": true,
+    "workbench.colorTheme": "SynthWave '84"
+}

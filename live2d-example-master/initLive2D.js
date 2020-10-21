@@ -58,7 +58,7 @@ const initL2Dwidget = async (path)=> {
               hOffset: 50,
               vOffset: 2
           },
-          "model": { "scale": 1,"jsonPath": "/Users/dongzhenxiang/ShareFloder/vscode-custom/live2d-example-master/packages/"+path },
+          "model": { "scale": 1,"jsonPath": "/home/dev/Documents/zx/vscode-custom/live2d-example-master/packages/"+path },
       });
 
   const target = await getBox("chromium");
@@ -68,7 +68,7 @@ const initL2Dwidget = async (path)=> {
   target.append(canvas);
 }
 
-initL2Dwidget('雷姆/11.json')
+initL2Dwidget('初音未来/15.json')
 
 
 
